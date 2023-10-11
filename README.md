@@ -28,5 +28,8 @@ Formulas, Conditional statements and Charts to show distribution.
 #ANALYSIS
 
 The above data shows that in the month of October 2014 105,482 number of goods where sold making it the highest number of goods sold within the recorded period and in the month of September 2013 50,601 number of goods were sold making it the lowest number of goods sold within the recorded period.
-
+---
+---
+---
+![](thankyou.jpg)
 
