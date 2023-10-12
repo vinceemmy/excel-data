@@ -1,4 +1,4 @@
-# Imaginary Company
+# A & C Company
 
 ## Introduction
 ### The dummy data on this data set was created using Microsoft Excel to find out the frequency of number of goods sold in each month from September 2013 to December 2014 and to make informed decision on when to slow down production in coming months so as not to run into excess production leading to diminishing returns.
